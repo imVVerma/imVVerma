@@ -1,88 +1,80 @@
+<!-- Header Banner / Intro -->
 <div align="center">
 
-<sub>VOL. 2026 · No. 323 · github.com/imvverma</sub>
+# Hi there, I'm Vaibhav Verma 👋
 
-# The VAIBHAV VERMA Times
+### **Building things. Capturing moments. Expressing ideas.**
 
-<sub><b>FRONTEND OR FULL-STACK ENGINEER</b> · ALL THE CODE THAT'S FIT TO SHIP</sub>
+[![Portfolio](https://img.shields.io/badge/Between%20Frames-Portfolio-0f172a?style=for-the-badge&logo=google-photos&logoColor=white)](vbhvworks.my.canva.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vaibhav-vv)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavnsverma@gmail.com)
 
 </div>
 
 ---
 
-**22** public repositories, **0** stars, **323** contributions in the last year, a longest streak of **8** days and **1** followers.
-
-<table>
-<tr>
-<td width="44%" valign="top">
-
-### Top stories
-
-<b><a href="https://github.com/imVVerma/pipeline-hazard-simulator_vaj">pipeline-hazard-simulator_vaj</a></b> · ★ 0<br/><sub>A public project on GitHub.</sub><br/><br/>
-<a href="https://github.com/imVVerma/Audio-Transcription-Tool">Audio-Transcription-Tool</a> · ★ 0<br/><sub>Full-stack transcription tool built to explore async job queues, rate limiting, and webhooks — dark studio UI </sub><br/><br/>
-<a href="https://github.com/imVVerma/ConfAI-26">ConfAI-26</a> · ★ 0<br/><sub>A public project on GitHub.</sub><br/><br/>
-<a href="https://github.com/imVVerma/Suki-For-Win">Suki-For-Win</a> · ★ 0<br/><sub>A public project on GitHub.</sub>
-
-</td>
-<td width="28%" valign="top">
-
-### By the numbers
-
-Repositories: <b>22</b><br/>
-Stars: <b>0</b><br/>
-Contributions: <b>323</b><br/>
-Longest streak: <b>8 days</b><br/>
-Followers: <b>1</b>
-
-</td>
-<td width="28%" valign="top">
-
-### Languages
-
-Python · 82%<br/>
-TypeScript · 6%<br/>
-JavaScript · 3%<br/>
-HTML · 3%<br/>
-CSS · 2%
-
-</td>
-</tr>
-</table>
-
-### Editorial
-
-> Filmmaking &amp; Photography Club ( Lamhe ) — Vice President (earlier Editing Lead &amp; Photographer) (Sep 2025 – Present)
-Kartavya, The Social Service Club — Content Member → Head of Content → Design &amp; Content Member (Sep 2024 – Present)
-Young Data Scientists Program, Plaksha University — Student Teaching Assistant (June 2025)
-ConfAI 2025 &amp; 2026, Plaksha University — Organizing Committee Member (Nov 2025 – Present)
-
-### Activity forecast
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=imvverma&theme=zen" alt="imvverma contribution activity" />
-</p>
+### 🚀 About Me
+- 🔭 **CS & AI Undergrad** at Plaksha University (Class of 2028).
+- 💡 Passionate about building software for specific people with real problems, exploring open-weights SLMs, and local inference pipelines.
+- 🎨 **Vice President of Lamhe** (Filmmaking & Photography Club); former Editing Lead.
+- ✍️ Co-author of *Soul Code* (anthology) and fiction/reflection writer.
 
 ---
 
-<div align="center"><sub>CLASSIFIEDS · <a href="https://github.com/imvverma">GitHub</a> · Printed with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></div>
+### 🛠️ Tech Stack & Tools
 
-## Experience
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38Bdf8?style=flat-square&logo=tailwind-css&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| **Databases & Tools** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
-<table>
-<tr><td width="34%" valign="top"><b>Filmmaking &amp; Photography Club ( Lamhe ) — Vice President (earlier Editing Lead &amp; Photographer)</b><br /><sub>Sep 2025 – Present</sub></td><td width="66%" valign="top"><ul><li>Became Vice President in July 2026 after serving as Editing Lead and Photographer. Cover campus events and club initiatives through photography, editing, and visual storytelling.</li><li>Conceived and built Lamhe Asset Forge, a tool to organize the club’s approximately 300 GB of photos and videos collected over its first two semesters (see Projects).</li></ul></td></tr><tr><td width="34%" valign="top"><b>Kartavya, The Social Service Club — Content Member → Head of Content → Design &amp; Content Member</b><br /><sub>Sep 2024 – Present</sub></td><td width="66%" valign="top"><ul><li>Planned and produced content and documentation for social-impact campaigns, and led the content team as Head of Content from July 2025 to July 2026.</li><li>Contributed to initiatives including a Women’s Day documentary, a menstrual awareness event with 150+ participants, sanitary-pad drives distributing 8,000 pads in partnership with three NGOs, and a blood donation drive</li></ul></td></tr><tr><td width="34%" valign="top"><b>ConfAI 2025 &amp; 2026, Plaksha University — Organizing Committee Member</b><br /><sub>Nov 2025 – Present</sub></td><td width="66%" valign="top"><ul><li>ConfAI 2026: Co-designed and deployed the conference website with teammates and am editing promotional videos for the conference scheduled for October 30 – November 1, 2026.</li><li>ConfAI 2025: Created posters, videos, and daily content for the conference’s LinkedIn page.</li></ul></td></tr>
-</table>
+---
 
-<b>Education</b>
+### 💻 What I'm Working On Right Now
 
-- B.Tech - Computer Science &amp; Artificial Intelligence — Plaksha University,Mohali (2028)
-- 12th - CBSE — Heeralal Public School, Mundka, Delhi (2024)
-- 10th - CBSE — DAV Public School, Sec-14 , Gurugram (2022)
+- **Lamhe Asset Forge:** Building duplicate detection, compression, and upcoming face grouping for our club's growing ~300GB photo archive.
+- **EkagraAI (ILGC Project):** Collaborating on a learning chatbot matching pedagogy to learners at different stages; contributing to knowledge retrieval banks.
+- **MediDist:** Developing a phone-first ERP for wholesale pharmaceutical stockists featuring low-stock alerts, rolling credit tracking, and voice-assisted workflows.
 
-<b>Projects</b>
+---
 
-- <b>DocForge — Document Processing Platform</b> — Built a web app that converts, merges, compresses, and runs OCR on documents, with drag-and-drop upload &amp; progress tracking. Built the backend with FastAPI, pypdf, python-docx, and Tesseract, and deployed it on Railway a
-- <b>MediDist — Medicine Distributor Management App</b> — Built a phone-first app for tracking medicine stock, with alerts for low stock &amp; nearing expiry so nothing runs out or expires unnoticed. Added outstanding-balance tracking and defaulter detection to show which customers
-- <b>AI Admissions Interview Management Platform</b> — Built an AI-assisted tool that reads admission applications &amp; picks out each candidate’s key focus areas, key highlights. Matches candidates to interviewers and suggests interview questions based on the application.
-- <b>Lamhe Media Manager</b> — Built a photo curation and compression app for a 300GB archive, detecting duplicates, recommending keepers based on image quality, and generating optimized copies with GPS metadata removal and resumable processing. Proto
-- <b>EkagraAI: Adaptive Learning Chatbot</b> — Built an adaptive tutoring chatbot combining LLM-generated teaching with SOLO-based assessment to guide learner progression. Curating an domain wise knowledge bank and validating scoring, interventions, and progression t
-- <b>Grievance Redressal Platform</b> — Built a campus grievance platform supporting anonymous submissions, private-code tracking, and service requests. Implemented a six-stage status workflow, department-level access controls, separated identity storage, and
+### 📂 Selected Projects
+
+<details>
+<summary><b>Lamhe Asset Forge</b> (Streamlit / Desktop Tool)</summary>
+A desktop and Streamlit-backed utility built to tackle 300GB+ of club media archives. Automatically identifies duplicates, recommends keepers based on image quality, strips GPS metadata, and supports resumable batches.
+</details>
+
+<details>
+<summary><b>Grievance Redressal Platform (GAP)</b> (Full-Stack University Platform)</summary>
+University complaint portal featuring default anonymous submission with opt-in identity reveal, secure private tracking codes, 6-stage status workflows, and department-level access controls.
+</details>
+
+<details>
+<summary><b>EkagraAI Chatbot</b> (RAG / Educational Platform)</summary>
+An adaptive learning platform implementing state-machine pedagogies and Kautilya's Arthashastra domain knowledge using Python, ChromaDB, and LLMs.
+</details>
+
+<details>
+<summary><b>Suki for Windows & DocForge</b> (Utility Recreations)</summary>
+Experimental recreations—<b>Suki</b> exploring the desktop companion experience of Wispr Flow on Windows, and <b>DocForge</b> providing local-first document conversion, merging, and OCR tools.
+</details>
+
+---
+
+### 🌱 Beyond Code & Terminal
+- **Visual Arts:** Capturing landscapes, sunsets, silhouettes, and candid moments around campus. 
+- **Leadership & Community:** Serving as Vice President of **Lamhe**, and previously driving content campaigns for **Kartavya** (Social Service Club) and organizing **ConfAI**.
+- **Fun Facts:** Certified Potterhead, mountain seeker, and professional reel-scroller.
+
+---
+
+<div align="center">
+
+### 📊 GitHub Stats
+![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.ai/api?username=imVVerma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e)
+![Top Langs](https://github-readme-stats.vercel.ai/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1e2e)
+
+</div>
