@@ -81,5 +81,11 @@ Experimental recreations—<b>Suki</b> exploring the desktop companion experienc
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.ai/api?username=imVVerma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e" width="48%" />
-<img src="https://github-readme-stats.vercel.ai/api/top-langs/?username=imVVerma&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1e2e" width="48%" />
+[![GitHub Streak](https://img.shields.io/badge/GitHub-imVVerma-1e1e2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imVVerma)
+[![Languages](https://img.shields.io/badge/Core-Python_%7C_C++_%7C_React_%7C_FastAPI-1e1e2e?style=for-the-badge&logo=codeforces&logoColor=38bdf8)](https://github.com/imVVerma?tab=repositories)
+
+| Metric | Status |
+| :--- | :--- |
+| **Primary Focus** | AI/ML, SLM Inference, Full-Stack Apps |
+| **Current Tools** | Python, React, FastAPI, Docker, Linux |
+| **Active Projects** | Lamhe Asset Forge, EkagraAI, MediDist |
