@@ -73,8 +73,10 @@ Experimental recreations—<b>Suki</b> exploring the desktop companion experienc
 
 <div align="center">
 
+<div align="center">
+
 ### 📊 GitHub Stats
 ![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.ai/api?username=imVVerma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e)
-![Top Langs](https://github-readme-stats.vercel.ai/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1e2e)
+![Top Langs](https://github-readme-stats.vercel.ai/api/top-langs/?username=imVVerma&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1e2e)
 
 </div>
