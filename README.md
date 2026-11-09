@@ -5,8 +5,8 @@
 
 ### **Building things. Capturing moments. Expressing ideas.**
 
-[![Portfolio](https://img.shields.io/badge/Between%20Frames-Portfolio-0f172a?style=for-the-badge&logo=google-photos&logoColor=white)](vbhvworks.my.canva.site)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vaibhav-vv)
+[![Portfolio](https://img.shields.io/badge/Between%20Frames-Portfolio-0f172a?style=for-the-badge&logo=google-photos&logoColor=white)](https://vbhvworks.my.canva.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-vv)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavnsverma@gmail.com)
 
 </div>
@@ -73,12 +73,6 @@ Experimental recreations—<b>Suki</b> exploring the desktop companion experienc
 
 <div align="center">
 
-<div align="center">
-
----
-
-<div align="center">
-
 ### 📊 GitHub Stats
 
 [![GitHub Streak](https://img.shields.io/badge/GitHub-imVVerma-1e1e2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imVVerma)
@@ -89,3 +83,5 @@ Experimental recreations—<b>Suki</b> exploring the desktop companion experienc
 | **Primary Focus** | AI/ML, SLM Inference, Full-Stack Apps |
 | **Current Tools** | Python, React, FastAPI, Docker, Linux |
 | **Active Projects** | Lamhe Asset Forge, EkagraAI, MediDist |
+
+</div>
